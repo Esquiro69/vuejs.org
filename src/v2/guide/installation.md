@@ -2,7 +2,7 @@
 title: Installation
 type: guide
 order: 1
-vue_version: 2.5.16
+vue_version: 2.6.10
 gz_size: "30.90"
 ---
 
